@@ -1,0 +1,21 @@
+# Site settings
+title: Preparing to Leap into Code
+header-img: img/home-bg.png
+email: geeyung.li@gmail.com
+copyright_name: gee2789
+description: > # this means to ignore newlines until "baseurl:"
+  your preflight checklist
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  gee2789
+learn_profile: gee2789
+email_username: geeyung.li@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
