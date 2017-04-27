@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making the Jump to Coding Bootcamp"
+title:  "Making the Jump to Coding Bootcamps"
 date:   2017-04-27 13:19:44 +0000
 ---
 
