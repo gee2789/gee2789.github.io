@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Making the Jump to Coding Bootcamps"
+title:  "Making the Jump to Coding Bootcamp"
 date:   2017-04-27 13:19:44 +0000
 ---
+
+<h1> Making the Jump to Coding Bootcamp <h1>
 
 In February of 2017, I joined the [Flatiron School](https://flatironschool.com/) along with 30 others in what would be one of the most life-changing experiences of my life.  Through this journey, I would learn so much more than just coding.
 
@@ -13,7 +15,7 @@ But is a coding bootcamp right for you?  Here's a short list of things I've expe
 
 I'll be the first to admit that I came into this program expecting I would easily learn this "coding" thing.  I already had numerous data points of success in the corporate world and in academia.  Why should I expect any different during this program?
 
-Instead, I have spent the past 12 weeks struggling and running into wall after wall.  Coding was **hard**.  And as soon as I felt just a little bit of mastery, we would move to a completely new language, framework, and topic. 
+Instead, I have spent the past 12 weeks struggling and running into wall after wall.  Coding was **hard**.  And as soon as I felt just a little bit of mastery, we would move to a completely new language, framework, and topic.
 
 And this is when I realized **I had been engineering my professional life for comfort.**  During the bootcamp I could almost feel myself physically changing as I remembered how it felt to struggle with big complex problems.  The best part of it?  You realize you can do it.  It's just a matter of focused persistance.
 
@@ -55,5 +57,3 @@ Learn something.  Become competent and proficient at it so you can see more than
 I can't say I *love* coding, but I know what I've learned is just the tip of the iceberg.  There's so much more struggling and learning left to do and **that** is just as exciting to me as knowing I have the abilities to tackle these challenges head on.
 
 >Don't do what you love. Do something well enough to love what you do.
-
-
