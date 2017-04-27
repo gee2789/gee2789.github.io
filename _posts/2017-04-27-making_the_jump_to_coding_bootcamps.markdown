@@ -4,8 +4,6 @@ title:  "Making the Jump to Coding Bootcamp"
 date:   2017-04-27 13:19:44 +0000
 ---
 
-<h1> Making the Jump to Coding Bootcamp <h1>
-
 In February of 2017, I joined the [Flatiron School](https://flatironschool.com/) along with 30 others in what would be one of the most life-changing experiences of my life.  Through this journey, I would learn so much more than just coding.
 
 But is a coding bootcamp right for you?  Here's a short list of things I've experienced during my 12 weeks experience.  My hope is that it gives you another data point in deciding whether joining this experience is right for you.
